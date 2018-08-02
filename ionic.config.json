@@ -1,0 +1,7 @@
+{
+  "name": "MyOTApp5.0",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
